@@ -3,10 +3,10 @@ venv/
 __pycache__/
 *.pyc
 .env
-model/*.safetensors
-model/*.bin
-model/*.model
-model/config.json
-model/tokenizer*.json
-model/special_tokens_map.json
-model/spiece.model
+# model/*.safetensors
+# model/*.bin
+# model/*.model
+# model/config.json
+# model/tokenizer*.json
+# model/special_tokens_map.json
+# model/spiece.model
