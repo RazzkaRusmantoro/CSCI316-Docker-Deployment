@@ -1,4 +1,4 @@
-# CSCI316 Docker Deployment
+# CSCI316 Project 2
 
 This project serves a Tamil-English code-switched sentiment classifier through a Flask API.
 
@@ -32,8 +32,8 @@ If an image is already published to GitHub Container Registry (GHCR), pull and r
 
 1. Pull:
    - `docker pull ghcr.io/<github-username>/<repo-name>:latest`
-2. Run:
-   - `docker run --rm -p 5000:5000 ghcr.io/<github-username>/<repo-name>:latest`
+2. Run
+   - `docker run --rm -p 5000:5000 ghcr.io/razzkarusmantoro/csci316-docker-deployment:latest`
 
 Then test:
 - `http://localhost:5000/`
