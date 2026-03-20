@@ -1,0 +1,2 @@
+model,framework,test_accuracy,test_f1_weighted,best_epoch,trainable_params
+mT5-small Full Fine-Tuning,PyTorch,0.4382,0.4516,1,172384645

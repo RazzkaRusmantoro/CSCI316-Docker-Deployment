@@ -1,0 +1,11 @@
+text,text_clean,label,predicted,correct
+Johnwick aavadhu mayiravadhu.... Inga paarunga ya namma thalaivan ah...,Johnwick aavadhu mayiravadhu... Inga paarunga ya namma thalaivan ah...,0,Positive,False
+"Yaarukellam krish, Mugamudi, Dhoom 2 movies neyabagam varuthu","Yaarukellam krish, Mugamudi, Dhoom 2 movies neyabagam varuthu",0,Mixed_feelings,False
+Thalaivaa waiting Thalaivaa intha rasigan... unnaa paakaradhukku screenle,Thalaivaa waiting Thalaivaa intha rasigan... unnaa paakaradhukku screenle,2,Mixed_feelings,False
+Ppaaaaah... music semma... hans zimmer + yuvan,Ppaaah... music semma... hans zimmer yuvan,0,Positive,False
+Veeram 2 nu soldravanga like pannunga,Veeram 2 nu soldravanga like pannunga,3,Positive,False
+Thala marana look yuvan BGM ultimate,Thala marana look yuvan BGM ultimate,0,Positive,False
+Tha nega like podulana kuda dislike enna ithukku da poduringa,Tha nega like podulana kuda dislike enna ithukku da poduringa,0,Positive,False
+2:18 looks like a spoof on Siva Karathikaeyan,2 18 looks like a spoof on Siva Karathikaeyan,3,Mixed_feelings,False
+Dislike pannavan lam Aamainga nu ninaikiren,Dislike pannavan lam Aamainga nu ninaikiren,2,Positive,False
+Friends remake solli evlo pesuninga antha vali ippa varum da,Friends remake solli evlo pesuninga antha vali ippa varum da,2,Positive,False
